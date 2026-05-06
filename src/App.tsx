@@ -374,7 +374,7 @@ export default function App() {
                   <div className="entryMeta">Academic background</div>
                 </div>
                 <ul className="list">
-                  <li>SMK Tun Mutahir 10A (6A + 3A + 1A-)</li>
+                  <li>SMK Tun Mutahir 10A (6A+ 3A 1A-)</li>
                   <li>Malacca Matriculation College (KMM) — CGPA: 4.0, MUET: 4.0</li>
                   <li>Universiti Malaya (Faculty of Computer Science and Information Technology) — CGPA: 3.98/4.00  
                     <br></br>Sep 2025 – Feb 2028 (Expected completion)</li>
