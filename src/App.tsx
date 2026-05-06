@@ -16,7 +16,7 @@ function Section(props: { id: string; title: string; children: React.ReactNode }
     </section>
   );
 }
-
+ 
 export default function App() {
   const profile = useMemo(
     () => ({
