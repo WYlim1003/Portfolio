@@ -1,4 +1,4 @@
-import React, { useMemo, useState, useRef, useEffect } from 'react';
+import React, { useMemo, useState } from 'react';
 import InteractiveScene, { type SceneHotspot } from './components/InteractiveScene';
 import ProjectDetailsPanel, { type Project } from './components/ProjectDetailsPanel';
 import profilePic from './assets/profile.jpg';
