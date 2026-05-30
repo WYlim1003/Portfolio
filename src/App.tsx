@@ -772,8 +772,8 @@ export default function App() {
                   <li><strong>KitaHack</strong> – Participant (MediSafe) (2026)</li>
                   <li><strong>VHack</strong> – Participant (Fraud Shield) (2026)</li>
                   <li><strong>UM SPROUTS 6.0</strong> – Participant (C.O.O.L UM) (2026)</li>
-                  <li><strong>UMACT Hackathon</strong> – TBA (Fraud Detection Machine Learning) (2026)</li>
-                  <li><strong>UM Hackathon</strong> – TBA (ZenTravel) (2026)</li>
+                  <li><strong>UMACT Hackathon</strong> – Participant (Fraud Detection Machine Learning) (2026)</li>
+                  <li><strong>UM Hackathon</strong> – Participant (ZenTravel) (2026)</li>
                   <li><strong>EDMAT-46</strong> – Finalist (4th Place) (SMARTBIN) (2025)</li>
                   <li><strong>i-UM Disrupt 2025</strong> – Special Mention Award (SMARTBIN) (2025)</li>
                   <li><strong>Website Building Competition</strong> – Participant (Banana) (2025)</li>
